@@ -11,6 +11,7 @@
             $suma = $variable1+$variable2;
             return $suma;
         }
+        
 	function resta($variable1,$variable2){
 	$resta = $variable1-$variable2;
 	return $resta;
