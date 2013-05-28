@@ -12,6 +12,7 @@
             return $suma;
         }
         
+        
 
 
 	function resta($variable1,$variable2){
