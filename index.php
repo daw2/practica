@@ -15,6 +15,11 @@
 	$resta = $variable1-$variable2;
 	return $resta;
 	}
+        
+        function multiplicacio($variable1,$variable2){
+            $multi = $variable1*$variable2;
+            return $multi;
+        }
         ?>
     </body>
 </html>
